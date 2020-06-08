@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\Chart\Chart\bin\x64\Debug\Chart.exe.config
+\\Mac\Home\Desktop\Chart\Chart\bin\x64\Debug\Chart.exe
+\\Mac\Home\Desktop\Chart\Chart\bin\x64\Debug\Chart.pdb
+\\Mac\Home\Desktop\Chart\Chart\obj\x64\Debug\Chart.Form1.resources
+\\Mac\Home\Desktop\Chart\Chart\obj\x64\Debug\Chart.Form2.resources
+\\Mac\Home\Desktop\Chart\Chart\obj\x64\Debug\Chart.Properties.Resources.resources
+\\Mac\Home\Desktop\Chart\Chart\obj\x64\Debug\Chart.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Chart\Chart\obj\x64\Debug\Chart.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Chart\Chart\obj\x64\Debug\Chart.exe
+\\Mac\Home\Desktop\Chart\Chart\obj\x64\Debug\Chart.pdb
+\\Mac\Home\Desktop\Chart\Chart\obj\x64\Debug\Chart.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Chart\Chart\obj\x64\Debug\Chart.main.resources
+\\Mac\Home\Desktop\Chart\Chart\obj\x64\Debug\Chart.web.resources
+\\Mac\Home\Desktop\Chart\Chart\obj\x64\Debug\Chart.about.resources
+\\Mac\Home\Desktop\Chart\Chart\obj\x64\Debug\Chart.Form3.resources

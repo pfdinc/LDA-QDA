@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{2D3CD7E4-B746-4363-B0C3-8D03CF90C242}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Chart/Form1.cs">
+    <Files>
+      <File FileName="Chart/Form1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+C:\Users\cs427001_09.CS2K3\Desktop\Chart2\Chart\bin\Debug\Chart.exe.config
+C:\Users\cs427001_09.CS2K3\Desktop\Chart2\Chart\bin\Debug\Chart.exe
+C:\Users\cs427001_09.CS2K3\Desktop\Chart2\Chart\bin\Debug\Chart.pdb
+C:\Users\cs427001_09.CS2K3\Desktop\Chart2\Chart\obj\Debug\Chart.csprojResolveAssemblyReference.cache
+C:\Users\cs427001_09.CS2K3\Desktop\Chart2\Chart\obj\Debug\Chart.about.resources
+C:\Users\cs427001_09.CS2K3\Desktop\Chart2\Chart\obj\Debug\Chart.Form1.resources
+C:\Users\cs427001_09.CS2K3\Desktop\Chart2\Chart\obj\Debug\Chart.Form2.resources
+C:\Users\cs427001_09.CS2K3\Desktop\Chart2\Chart\obj\Debug\Chart.Form3.resources
+C:\Users\cs427001_09.CS2K3\Desktop\Chart2\Chart\obj\Debug\Chart.main.resources
+C:\Users\cs427001_09.CS2K3\Desktop\Chart2\Chart\obj\Debug\Chart.Properties.Resources.resources
+C:\Users\cs427001_09.CS2K3\Desktop\Chart2\Chart\obj\Debug\Chart.web.resources
+C:\Users\cs427001_09.CS2K3\Desktop\Chart2\Chart\obj\Debug\Chart.csproj.GenerateResource.Cache
+C:\Users\cs427001_09.CS2K3\Desktop\Chart2\Chart\obj\Debug\Chart.exe
+C:\Users\cs427001_09.CS2K3\Desktop\Chart2\Chart\obj\Debug\Chart.pdb
