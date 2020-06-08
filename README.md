@@ -663,9 +663,6 @@ NOTE: The chars were Created with the picture box tool from Winform Liburary
 
 
 
-## Acknowledgments
-* [*Dr. Boris Kovalerchuk *](http://www.cwu.edu/~borisk/)
-
 
 
 
