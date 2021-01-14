@@ -28,7 +28,7 @@ Note: The following are defult plots for 2 and 4 classes
 
 ## Structure 
 
-![alt text](https://github.com/pfdinc/discriminant-_analysis_C_sharp/blob/master/DA.png)
+![alt text](https://github.com/pfdinc/LDA-QDA/blob/master/DA.png)
 
 ## Deployment
 
@@ -48,7 +48,7 @@ NOTE: Make sure your result folder is in the same directory
 ```
 
 ### *Step 1*
-![alt text](https://github.com/pfdinc/discriminant-_analysis_C_sharp/blob/master/photo/Screen%20Shot%202017-09-25%20at%2011.29.24%20PM.png)
+![alt text](https://github.com/pfdinc/LDA-QDA/blob/master/photo/Screen%20Shot%202017-09-25%20at%2011.29.24%20PM.png)
 
 ```
 This page is what you will see when you run the program 
@@ -64,12 +64,12 @@ This page is what you will see when you run the program
 Note: Make sure the class you choose matches promp 
 >>Submit>>To populate graph 
 ```
-![alt text](https://github.com/pfdinc/discriminant-_analysis_C_sharp/blob/master/photo/Screen%20Shot%202017-09-25%20at%2011.30.14%20PM.png)
+![alt text](https://github.com/pfdinc/LDA-QDA/blob/master/photo/Screen%20Shot%202017-09-25%20at%2011.30.14%20PM.png)
 
 ```
 >>> If you dont choose a .csv file >> 2Classes_Defult.csv & 4Classes_Defult.csv will populate the graph. 
 ```
-![alt text](https://github.com/pfdinc/discriminant-_analysis_C_sharp/blob/master/photo/Screen%20Shot%202017-09-25%20at%2011.30.48%20PM.png)
+![alt text](https://github.com/pfdinc/LDA-QDA/blob/master/photo/Screen%20Shot%202017-09-25%20at%2011.30.48%20PM.png)
 
 ### *Step 3*
 
@@ -81,14 +81,14 @@ Note: Make sure the class you choose matches promp
 >> Submit >> Get result
 ```
 
-![alt text](https://github.com/pfdinc/discriminant-_analysis_C_sharp/blob/master/photo/Screen%20Shot%202017-10-26%20at%2011.07.15%20AM.png)
+![alt text](https://github.com/pfdinc/dLDA-QDA/blob/master/photo/Screen%20Shot%202017-10-26%20at%2011.07.15%20AM.png)
 
 ```
 >> Drag the lines to seperate the 2 or 4 classes.
 >> When you are done seperating the classes, the timer will atomatically stop
 >> result will display with in the confusion matrix 
 ```
-![alt text](https://github.com/pfdinc/discriminant-_analysis_C_sharp/blob/master/photo/Screen%20Shot%202017-10-26%20at%2011.07.38%20AM.png)
+![alt text](https://github.com/pfdinc/LDA-QDA/blob/master/photo/Screen%20Shot%202017-10-26%20at%2011.07.38%20AM.png)
 
 
 ### Buttons on the bottom 
@@ -97,16 +97,16 @@ Note: Make sure the class you choose matches promp
 >>> Visual Analysis >> Visual analytic web page
 >>> About >> Github page for this software 
 ```
-![alt text](https://github.com/pfdinc/discriminant-_analysis_C_sharp/blob/master/photo/Screen%20Shot%202017-10-26%20at%2011.07.52%20AM.png)
+![alt text](https://github.com/pfdinc/LDA-QDA/blob/master/photo/Screen%20Shot%202017-10-26%20at%2011.07.52%20AM.png)
 
 
 ## Confusion Matrix 
 
-![alt text](https://github.com/pfdinc/discriminant-_analysis_C_sharp/blob/master/photo/Screen%20Shot%202017-10-26%20at%2011.07.44%20AM.png)
+![alt text](https://github.com/pfdinc/LDA-QDA/blob/master/photo/Screen%20Shot%202017-10-26%20at%2011.07.44%20AM.png)
 
 
 
-![alt text](https://github.com/pfdinc/discriminant-_analysis_C_sharp/blob/master/photo/Screen%20Shot%202017-10-26%20at%2011.06.29%20AM.png)
+![alt text](https://github.com/pfdinc/LDA-QDA/blob/master/photo/Screen%20Shot%202017-10-26%20at%2011.06.29%20AM.png)
 
 
 ```
@@ -116,7 +116,7 @@ Note: Make sure the class you choose matches promp
 
 ```
 
-![alt text](https://github.com/pfdinc/discriminant-_analysis_C_sharp/blob/master/photo/Screen%20Shot%202017-09-25%20at%2011.30.48%20PM.png)
+![alt text](https://github.com/pfdinc/LDA-QDA/blob/master/photo/Screen%20Shot%202017-09-25%20at%2011.30.48%20PM.png)
 
 ```
 *	Pick classes based on the instruction follow sted 2
@@ -124,7 +124,7 @@ Note: Make sure the class you choose matches promp
 ```
 
 ### *Step 4*
-![alt text](https://github.com/pfdinc/discriminant-_analysis_C_sharp/blob/master/photo/Screen%20Shot%202017-09-25%20at%2011.31.13%20PM.png)
+![alt text](https://github.com/pfdinc/LDA-QDA/blob/master/photo/Screen%20Shot%202017-09-25%20at%2011.31.13%20PM.png)
 
 ```
 * Your Choice will display here 
@@ -657,7 +657,7 @@ NOTE: The chars were Created with the picture box tool from Winform Liburary
 
 # Confusion Matrix Algorithm 
 
-![alt text](https://github.com/pfdinc/discriminant-_analysis_C_sharp/blob/master/photo/Screen%20Shot%202017-09-25%20at%2011.31.13%20PM.png)
+![alt text](https://github.com/pfdinc/LDA-QDA/blob/master/photo/Screen%20Shot%202017-09-25%20at%2011.31.13%20PM.png)
 
 
 
