@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/pfdinc/discriminant-_analysis_C_sharp/blob/master/photo/Screen%20Shot%202017-10-25%20at%2011.43.17%20PM.png)
+![alt text](https://github.com/pfdinc/LDA-QDA/blob/master/photo/Screen%20Shot%202017-10-25%20at%2011.43.17%20PM.png)
 
  
 
